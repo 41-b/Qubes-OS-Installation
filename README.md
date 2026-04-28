@@ -19,9 +19,9 @@ Allocate system resources
 Install Qubes OS
 Perform initial setup and configuration
 
-👨‍💻 Author
+👨‍💻 Author:
 Beletu Dires
 
-📅 Submission
+📅 Submission:
 Prepared as part of Operating Systems coursework.
 
